@@ -40,14 +40,14 @@ const victor = {
 <tr>
 <td width="33%" valign="top">
 
-**`01` · Aplicação**
+**`01` · Web & e-commerce**
 
 ```diff
 + Painéis em Next.js e React
++ Lojas virtuais e painel admin
++ Sites com HTML, CSS e Vite
 + TypeScript e validação com Zod
-+ Vite, HTML e CSS
-+ Testes com Vitest
-+ Monitoramento com Sentry
++ Testes com Vitest e Sentry
 ```
 
 </td>
@@ -56,11 +56,11 @@ const victor = {
 **`02` · Dados & infra**
 
 ```diff
-+ PostgreSQL e Supabase
-+ Firebase: Firestore, Functions e Hosting
-+ Containers com Docker
-+ AWS (Secrets Manager)
-+ Linux, backup e rotinas (cron)
++ PostgreSQL, MySQL e Supabase
++ Firestore e regras de segurança
++ Firebase Functions e Hosting
++ Imagens com Cloudinary
++ Docker, AWS e Linux (cron, backup)
 ```
 
 </td>
@@ -87,7 +87,7 @@ const victor = {
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,nodejs&theme=dark" alt="Aplicação" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,docker,linux,arch,aws&theme=dark" alt="Dados e infraestrutura" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,docker,linux,arch,aws&theme=dark" alt="Dados e infraestrutura" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
 
@@ -100,7 +100,7 @@ const victor = {
 linguagens:     [TypeScript, JavaScript, HTML, CSS]
 frontend:       [React, Next.js, Vite, Tailwind CSS]
 backend:        [Node.js, Firebase Functions, WebSocket]
-dados:          [PostgreSQL, Supabase, Firestore]
+dados:          [PostgreSQL, MySQL, Supabase, Firestore]
 telefonia:      [Asterisk, AudioSocket]
 voz_e_ia:       [AWS Polly, AWS Transcribe, API da Anthropic (Claude)]
 qualidade:      [Vitest, ESLint, Sentry, Zod]
