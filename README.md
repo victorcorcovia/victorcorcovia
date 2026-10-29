@@ -16,6 +16,7 @@
 
 <img src="https://img.shields.io/badge/status-online-22C55E?style=flat-square&labelColor=0B0E14" alt="status" />
 <img src="https://img.shields.io/badge/foco-sistemas_em_produção-3B82F6?style=flat-square&labelColor=0B0E14" alt="foco" />
+<img src="https://img.shields.io/badge/local-Maring%C3%A1,_PR-14B8A6?style=flat-square&labelColor=0B0E14" alt="local" />
 <img src="https://komarev.com/ghpvc/?username=victorcorcovia&label=views&color=3B82F6&style=flat-square&labelColor=0B0E14" alt="views" />
 
 <br/><br/>
