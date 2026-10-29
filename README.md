@@ -136,8 +136,8 @@ ferramentas:    [Git, GitHub, VS Code]
 
 <div align="center">
 
-<a href="https://github.com/victorcorcovia"><img src="https://img.shields.io/badge/GitHub-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://instagram.com/victorcorcovia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:victor.corcovia@gmail.com"><img src="https://img.shields.io/badge/E--mail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://github.com/victorcorcovia"><img src="https://img.shields.io/badge/victorcorcovia-3B4252?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/victorcorcovia"><img src="https://img.shields.io/badge/victorcorcovia-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:victor.corcovia@gmail.com"><img src="https://img.shields.io/badge/victor.corcovia@gmail.com-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
