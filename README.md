@@ -132,21 +132,11 @@ ferramentas:    [Git, GitHub, VS Code]
 
 <br/>
 
-## `$` atividade
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=victorcorcovia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0E14" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorcorcovia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0E14" height="150" alt="linguagens" />
-
-</div>
-
-<br/>
-
 ## `$` contato
 
 <div align="center">
 
+<a href="https://github.com/victorcorcovia"><img src="https://img.shields.io/badge/GitHub-victorcorcovia-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:victor.corcovia@gmail.com"><img src="https://img.shields.io/badge/E--mail-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>
