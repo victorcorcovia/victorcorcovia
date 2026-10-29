@@ -24,7 +24,7 @@
   <rect class="scan" x="0" y="0" width="1200" height="2" fill="#3B82F6" opacity=".2"/>
 
   <g class="mono">
-    <text x="60" y="98" font-size="15" fill="#3B82F6">// telefonia · voz · web</text>
+    <text x="60" y="98" font-size="15" fill="#3B82F6">// telefonia · painel · web</text>
     <text x="58" y="158" font-size="52" font-weight="700" fill="#E6EDF3" letter-spacing="-1">Victor Hugo</text>
     <text x="60" y="198" font-size="21" fill="#8B95A8">Desenvolvedor<tspan fill="#14B8A6" class="cur">_</tspan></text>
     <rect x="60" y="218" width="140" height="4" rx="2" fill="url(#accent)"/>
@@ -33,7 +33,7 @@
       <rect x="166" y="246" width="84" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="208" y="265" text-anchor="middle">Next.js</text>
       <rect x="260" y="246" width="96" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="308" y="265" text-anchor="middle">Firebase</text>
       <rect x="366" y="246" width="76" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="404" y="265" text-anchor="middle">MySQL</text>
-      <rect x="452" y="246" width="68" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="486" y="265" text-anchor="middle">LLMs</text>
+      <rect x="452" y="246" width="76" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="490" y="265" text-anchor="middle">Vitest</text>
     </g>
   </g>
 
@@ -44,7 +44,7 @@
     <text x="918" y="64" font-size="12" fill="#8B95A8" text-anchor="middle">victor@projetos: ~</text>
     <g font-size="14">
       <g class="l d1"><text x="712" y="106" fill="#14B8A6">$</text><text x="728" y="106" fill="#E6EDF3">ls projetos</text></g>
-      <g class="l d2"><text x="712" y="134" fill="#3B82F6">nexcall/</text><text x="800" y="134" fill="#8B95A8">discador · voz · painel</text></g>
+      <g class="l d2"><text x="712" y="134" fill="#3B82F6">nexcall/</text><text x="800" y="134" fill="#8B95A8">receptivo · painel · testes</text></g>
       <g class="l d3"><text x="712" y="160" fill="#3B82F6">e-commerce/</text><text x="824" y="160" fill="#8B95A8">firebase · vite · admin</text></g>
       <g class="l d4"><text x="712" y="186" fill="#3B82F6">sites/</text><text x="776" y="186" fill="#8B95A8">html · css · hosting</text></g>
       <g class="l d5"><text x="712" y="226" fill="#14B8A6">$</text><text x="728" y="226" fill="#E6EDF3">uname -s</text></g>

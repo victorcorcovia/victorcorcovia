@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/victorcorcovia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=%3E+Discador+e+telefonia+com+Asterisk;%3E+Voz+e+LLMs+nas+liga%C3%A7%C3%B5es;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Supabase;%3E+E-commerce+com+Firebase+e+Vite;%3E+MySQL+%C2%B7+Firestore;%3E+Linux+e+Windows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=%3E+Telefonia+com+Asterisk+e+chamadas+receptivas;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Tailwind;%3E+Testes+com+Vitest+e+ESLint;%3E+E-commerce+com+Firebase+e+Vite;%3E+MySQL+%C2%B7+Firestore;%3E+Linux+e+Windows" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -36,23 +36,23 @@ const victor = {
   role: "Desenvolvedor",
 
   trabalhando: {
-    telefonia:  ["Asterisk", "AudioSocket", "orquestrador de chamadas em Node.js"],
-    voz_e_ia:   ["síntese e transcrição de voz", "LLMs com a API da Anthropic"],
-    painel:     ["Next.js", "React", "Tailwind", "Supabase", "Zod", "Vitest", "Sentry"],
+    telefonia: ["Asterisk", "dialplan", "chamadas receptivas", "webhooks", "áudio com Polly"],
+    painel:    ["Next.js", "React", "Tailwind", "tabelas e telas de uso"],
+    qualidade: ["Vitest", "ESLint", "Sentry", "CI com GitHub Actions"],
   },
 
   construi: {
-    ecommerce:  ["Firebase (Firestore, Functions, Hosting)", "Vite", "Cloudinary", "painel admin"],
-    sites:      ["HTML", "CSS", "Firebase Hosting"],
+    ecommerce: ["Firebase (Firestore e Functions)", "Vite", "Cloudinary", "painel admin"],
+    sites:     ["HTML", "CSS", "Firebase Hosting"],
   },
 
-  dados:    ["MySQL", "Supabase", "Firestore"],
+  dados:    ["MySQL", "Firestore"],
   sistemas: ["Linux", "Windows"],
   mindset:  "entender a operação → achar o gargalo → entregar algo que aguenta carga real",
 };
 ```
 
-> Do telefone ao navegador: ligações que falam, painéis que mostram o que aconteceu e lojas que vendem.
+> Do telefone ao navegador: ligações que entram, painéis que mostram o que aconteceu e lojas que vendem.
 
 <br/>
 
@@ -68,8 +68,7 @@ const victor = {
 + Painéis em Next.js e React
 + Lojas virtuais e painel admin
 + Sites com HTML, CSS e Vite
-+ TypeScript e validação com Zod
-+ Testes com Vitest e Sentry
++ TypeScript
 ```
 
 </td>
@@ -78,7 +77,7 @@ const victor = {
 **`02` · Dados & infra**
 
 ```diff
-+ MySQL e Supabase
++ MySQL
 + Firestore e regras de segurança
 + Firebase Functions e Hosting
 + Imagens com Cloudinary
@@ -88,13 +87,13 @@ const victor = {
 </td>
 <td width="33%" valign="top">
 
-**`03` · Telefonia & voz**
+**`03` · Telefonia & qualidade**
 
 ```diff
-+ Asterisk, dialplan e AudioSocket
-+ Orquestrador de chamadas (WebSocket)
-+ Voz: Polly e Transcribe
-+ LLMs com a API da Anthropic
++ Asterisk e dialplan
++ Chamadas receptivas e webhooks
++ Áudio com Polly
++ Vitest, ESLint, Sentry e CI
 ```
 
 </td>
@@ -109,7 +108,7 @@ const victor = {
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,nodejs&theme=dark" alt="Aplicação" />
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,docker,linux,arch,windows&theme=dark" alt="Dados e infraestrutura" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,linux,arch,windows&theme=dark" alt="Dados e infraestrutura" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
 
@@ -121,11 +120,10 @@ const victor = {
 ```yaml
 linguagens:     [TypeScript, JavaScript, HTML, CSS]
 frontend:       [React, Next.js, Vite, Tailwind CSS]
-backend:        [Node.js, Firebase Functions, WebSocket]
-dados:          [MySQL, Supabase, Firestore]
-telefonia:      [Asterisk, AudioSocket]
-voz_e_ia:       [Polly, Transcribe, API da Anthropic (Claude)]
-qualidade:      [Vitest, ESLint, Sentry, Zod]
+backend:        [Node.js, Firebase Functions]
+dados:          [MySQL, Firestore]
+telefonia:      [Asterisk, Polly]
+qualidade:      [Vitest, ESLint, Sentry, GitHub Actions]
 infraestrutura: [Linux (Arch), Windows, Docker, Firebase Hosting, Cloudinary]
 ferramentas:    [Git, GitHub, VS Code]
 ```
