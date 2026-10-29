@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/victorcorcovia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+Telefonia+com+Asterisk+%C2%B7+AudioSocket;%3E+Voz+com+AWS+Polly+e+Transcribe;%3E+LLMs+com+a+API+da+Anthropic;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Supabase;%3E+TypeScript+%C2%B7+Docker+%C2%B7+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+Telefonia+com+Asterisk+%C2%B7+AudioSocket;%3E+Voz+com+Polly+e+Transcribe;%3E+LLMs+com+a+API+da+Anthropic;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Supabase;%3E+TypeScript+%C2%B7+Docker+%C2%B7+Linux+e+Windows" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -25,9 +25,10 @@
 
 ```ts
 const victor = {
-  role:  "Desenvolvedor",
-  focus: ["discador e telefonia", "voz com IA", "painel web", "integrações"],
-  infra: ["Linux", "Docker", "PostgreSQL", "AWS"],
+  role:    "Desenvolvedor",
+  focus:   ["telefonia e discador", "voz com IA", "e-commerce e painéis web", "integrações"],
+  stack:   ["TypeScript", "Next.js", "Firebase", "MySQL"],
+  systems: ["Linux", "Windows"],
   mindset: "entender a operação → achar o gargalo → entregar algo que aguenta carga real",
 };
 ```
@@ -56,11 +57,11 @@ const victor = {
 **`02` · Dados & infra**
 
 ```diff
-+ PostgreSQL, MySQL e Supabase
++ MySQL e Supabase
 + Firestore e regras de segurança
 + Firebase Functions e Hosting
 + Imagens com Cloudinary
-+ Docker, AWS e Linux (cron, backup)
++ Docker, Linux e Windows
 ```
 
 </td>
@@ -71,7 +72,7 @@ const victor = {
 ```diff
 + Asterisk, dialplan e AudioSocket
 + Orquestrador de chamadas (WebSocket)
-+ Voz: AWS Polly e Transcribe
++ Voz: Polly e Transcribe
 + LLMs com a API da Anthropic
 ```
 
@@ -87,7 +88,7 @@ const victor = {
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,nodejs&theme=dark" alt="Aplicação" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,docker,linux,arch,aws&theme=dark" alt="Dados e infraestrutura" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase,docker,linux,arch,windows&theme=dark" alt="Dados e infraestrutura" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
 
@@ -100,11 +101,11 @@ const victor = {
 linguagens:     [TypeScript, JavaScript, HTML, CSS]
 frontend:       [React, Next.js, Vite, Tailwind CSS]
 backend:        [Node.js, Firebase Functions, WebSocket]
-dados:          [PostgreSQL, MySQL, Supabase, Firestore]
+dados:          [MySQL, Supabase, Firestore]
 telefonia:      [Asterisk, AudioSocket]
-voz_e_ia:       [AWS Polly, AWS Transcribe, API da Anthropic (Claude)]
+voz_e_ia:       [Polly, Transcribe, API da Anthropic (Claude)]
 qualidade:      [Vitest, ESLint, Sentry, Zod]
-infraestrutura: [Linux (Arch), Docker, AWS, Firebase Hosting, Cloudinary]
+infraestrutura: [Linux (Arch), Windows, Docker, Firebase Hosting, Cloudinary]
 ferramentas:    [Git, GitHub, VS Code]
 ```
 
