@@ -45,6 +45,7 @@ const victor = {
 ```diff
 + Painéis em Next.js e React
 + TypeScript e validação com Zod
++ Vite, HTML e CSS
 + Testes com Vitest
 + Monitoramento com Sentry
 ```
@@ -56,6 +57,7 @@ const victor = {
 
 ```diff
 + PostgreSQL e Supabase
++ Firebase: Firestore, Functions e Hosting
 + Containers com Docker
 + AWS (Secrets Manager)
 + Linux, backup e rotinas (cron)
@@ -83,9 +85,9 @@ const victor = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs&theme=dark" alt="Aplicação" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,nodejs&theme=dark" alt="Aplicação" />
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,docker,linux,arch,aws&theme=dark" alt="Dados e infraestrutura" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,docker,linux,arch,aws&theme=dark" alt="Dados e infraestrutura" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
 
@@ -95,14 +97,14 @@ const victor = {
 <summary><code>cat stack.yml</code></summary>
 
 ```yaml
-linguagens:     [TypeScript, JavaScript]
-frontend:       [React, Next.js, Tailwind CSS]
-backend:        [Node.js, WebSocket]
-dados:          [PostgreSQL, Supabase]
+linguagens:     [TypeScript, JavaScript, HTML, CSS]
+frontend:       [React, Next.js, Vite, Tailwind CSS]
+backend:        [Node.js, Firebase Functions, WebSocket]
+dados:          [PostgreSQL, Supabase, Firestore]
 telefonia:      [Asterisk, AudioSocket]
 voz_e_ia:       [AWS Polly, AWS Transcribe, API da Anthropic (Claude)]
 qualidade:      [Vitest, ESLint, Sentry, Zod]
-infraestrutura: [Linux (Arch), Docker, AWS]
+infraestrutura: [Linux (Arch), Docker, AWS, Firebase Hosting, Cloudinary]
 ferramentas:    [Git, GitHub, VS Code]
 ```
 
