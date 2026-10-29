@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/victorcorcovia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+Discador+e+telefonia+com+Asterisk;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Tailwind;%3E+PostgreSQL+%C2%B7+Supabase+%C2%B7+Docker;%3E+Linux+no+dia+a+dia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+Telefonia+com+Asterisk+%C2%B7+AudioSocket;%3E+Voz+com+AWS+Polly+e+Transcribe;%3E+LLMs+com+a+API+da+Anthropic;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Supabase;%3E+TypeScript+%C2%B7+Docker+%C2%B7+Linux" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -26,8 +26,8 @@
 ```ts
 const victor = {
   role:  "Desenvolvedor",
-  focus: ["discador e telefonia", "painel web", "integrações"],
-  infra: ["Linux", "Docker", "PostgreSQL"],
+  focus: ["discador e telefonia", "voz com IA", "painel web", "integrações"],
+  infra: ["Linux", "Docker", "PostgreSQL", "AWS"],
   mindset: "entender a operação → achar o gargalo → entregar algo que aguenta carga real",
 };
 ```
@@ -44,8 +44,9 @@ const victor = {
 
 ```diff
 + Painéis em Next.js e React
-+ APIs e integrações
-+ TypeScript
++ TypeScript e validação com Zod
++ Testes com Vitest
++ Monitoramento com Sentry
 ```
 
 </td>
@@ -56,19 +57,20 @@ const victor = {
 ```diff
 + PostgreSQL e Supabase
 + Containers com Docker
++ AWS (Secrets Manager)
 + Linux, backup e rotinas (cron)
 ```
 
 </td>
 <td width="33%" valign="top">
 
-**`03` · Telefonia**
+**`03` · Telefonia & voz**
 
 ```diff
-+ Asterisk e dialplan
-+ Orquestração de chamadas
-+ Áudio sintetizado (Amazon Polly)
-+ Monitoramento de erros (Sentry)
++ Asterisk, dialplan e AudioSocket
++ Orquestrador de chamadas (WebSocket)
++ Voz: AWS Polly e Transcribe
++ LLMs com a API da Anthropic
 ```
 
 </td>
@@ -95,9 +97,11 @@ const victor = {
 ```yaml
 linguagens:     [TypeScript, JavaScript]
 frontend:       [React, Next.js, Tailwind CSS]
-backend:        [Node.js]
+backend:        [Node.js, WebSocket]
 dados:          [PostgreSQL, Supabase]
-telefonia:      [Asterisk]
+telefonia:      [Asterisk, AudioSocket]
+voz_e_ia:       [AWS Polly, AWS Transcribe, API da Anthropic (Claude)]
+qualidade:      [Vitest, ESLint, Sentry, Zod]
 infraestrutura: [Linux (Arch), Docker, AWS]
 ferramentas:    [Git, GitHub, VS Code]
 ```
