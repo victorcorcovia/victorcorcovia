@@ -25,13 +25,26 @@
 
 ```ts
 const victor = {
-  role:    "Desenvolvedor",
-  focus:   ["telefonia e discador", "voz com IA", "e-commerce e painéis web", "integrações"],
-  stack:   ["TypeScript", "Next.js", "Firebase", "MySQL"],
-  systems: ["Linux", "Windows"],
-  mindset: "entender a operação → achar o gargalo → entregar algo que aguenta carga real",
+  role: "Desenvolvedor",
+
+  trabalhando: {
+    telefonia:  ["Asterisk", "AudioSocket", "orquestrador de chamadas em Node.js"],
+    voz_e_ia:   ["síntese e transcrição de voz", "LLMs com a API da Anthropic"],
+    painel:     ["Next.js", "React", "Tailwind", "Supabase", "Zod", "Vitest", "Sentry"],
+  },
+
+  construi: {
+    ecommerce:  ["Firebase (Firestore, Functions, Hosting)", "Vite", "Cloudinary", "painel admin"],
+    sites:      ["HTML", "CSS", "Firebase Hosting"],
+  },
+
+  dados:    ["MySQL", "Supabase", "Firestore"],
+  sistemas: ["Linux", "Windows"],
+  mindset:  "entender a operação → achar o gargalo → entregar algo que aguenta carga real",
 };
 ```
+
+> Do telefone ao navegador: ligações que falam, painéis que mostram o que aconteceu e lojas que vendem.
 
 <br/>
 
