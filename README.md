@@ -1,14 +1,22 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img src="./assets/header-dark.svg" alt="Victor Hugo — Desenvolvedor" width="100%">
+</picture>
+
+<br/>
+
 <a href="https://github.com/victorcorcovia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=640&lines=%3E+Telefonia+com+Asterisk+%C2%B7+AudioSocket;%3E+Voz+com+Polly+e+Transcribe;%3E+LLMs+com+a+API+da+Anthropic;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Supabase;%3E+TypeScript+%C2%B7+Docker+%C2%B7+Linux+e+Windows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=%3E+Discador+e+telefonia+com+Asterisk;%3E+Voz+e+LLMs+nas+liga%C3%A7%C3%B5es;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Supabase;%3E+E-commerce+com+Firebase+e+Vite;%3E+MySQL+%C2%B7+Firestore;%3E+Linux+e+Windows" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/status-online-22C55E?style=flat-square&labelColor=0B0E14" alt="status" />
-<img src="https://img.shields.io/badge/foco-sistemas_em_produção-6C63FF?style=flat-square&labelColor=0B0E14" alt="foco" />
-<img src="https://komarev.com/ghpvc/?username=victorcorcovia&label=views&color=6C63FF&style=flat-square&labelColor=0B0E14" alt="views" />
+<img src="https://img.shields.io/badge/foco-sistemas_em_produção-3B82F6?style=flat-square&labelColor=0B0E14" alt="foco" />
+<img src="https://komarev.com/ghpvc/?username=victorcorcovia&label=views&color=3B82F6&style=flat-square&labelColor=0B0E14" alt="views" />
 
 <br/><br/>
 
@@ -141,6 +149,6 @@ ferramentas:    [Git, GitHub, VS Code]
 
 <div align="center">
 
-<a href="mailto:victor.corcovia@gmail.com"><img src="https://img.shields.io/badge/E--mail-6C63FF?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="mailto:victor.corcovia@gmail.com"><img src="https://img.shields.io/badge/E--mail-3B82F6?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
 
 </div>

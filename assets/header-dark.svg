@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Victor Hugo — Desenvolvedor">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1C2333" stroke-width="1"/></pattern>
+    <linearGradient id="fadeGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0.15"/></linearGradient>
+    <mask id="fade"><rect width="1200" height="320" fill="url(#fadeGrad)"/></mask>
+    <radialGradient id="glowA" cx="82%" cy="15%" r="55%"><stop offset="0" stop-color="#3B82F6" stop-opacity=".35"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glowB" cx="5%" cy="100%" r="50%"><stop offset="0" stop-color="#14B8A6" stop-opacity=".18"/><stop offset="1" stop-color="#14B8A6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3B82F6"/><stop offset="1" stop-color="#14B8A6"/></linearGradient>
+  </defs>
+  <style>
+    .mono{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace}
+    .l{animation:in .35s ease both}
+    .d1{animation-delay:.3s}.d2{animation-delay:.9s}.d3{animation-delay:1.5s}.d4{animation-delay:2.1s}.d5{animation-delay:2.7s}.d6{animation-delay:3.3s}
+    @keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+    .cur{animation:blink 1s step-end infinite}
+    @keyframes blink{50%{opacity:0}}
+    .scan{animation:scan 7s linear infinite}
+    @keyframes scan{from{transform:translateY(-20px)}to{transform:translateY(340px)}}
+  </style>
+  <rect width="1200" height="320" fill="#0B0E14"/>
+  <rect width="1200" height="320" fill="url(#grid)" mask="url(#fade)"/>
+  <rect width="1200" height="320" fill="url(#glowA)"/>
+  <rect width="1200" height="320" fill="url(#glowB)"/>
+  <rect class="scan" x="0" y="0" width="1200" height="2" fill="#3B82F6" opacity=".2"/>
+
+  <g class="mono">
+    <text x="60" y="98" font-size="15" fill="#3B82F6">// telefonia · voz · web</text>
+    <text x="58" y="158" font-size="52" font-weight="700" fill="#E6EDF3" letter-spacing="-1">Victor Hugo</text>
+    <text x="60" y="198" font-size="21" fill="#8B95A8">Desenvolvedor<tspan fill="#14B8A6" class="cur">_</tspan></text>
+    <rect x="60" y="218" width="140" height="4" rx="2" fill="url(#accent)"/>
+    <g font-size="13" fill="#8B95A8">
+      <rect x="60" y="246" width="96" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="108" y="265" text-anchor="middle">Asterisk</text>
+      <rect x="166" y="246" width="84" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="208" y="265" text-anchor="middle">Next.js</text>
+      <rect x="260" y="246" width="96" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="308" y="265" text-anchor="middle">Firebase</text>
+      <rect x="366" y="246" width="76" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="404" y="265" text-anchor="middle">MySQL</text>
+      <rect x="452" y="246" width="68" height="28" rx="6" fill="#111726" stroke="#2A3245"/><text x="486" y="265" text-anchor="middle">LLMs</text>
+    </g>
+  </g>
+
+  <g class="mono">
+    <rect x="690" y="44" width="456" height="240" rx="12" fill="#0F1420" stroke="#2A3245"/>
+    <path d="M690 56a12 12 0 0 1 12-12h432a12 12 0 0 1 12 12v18H690z" fill="#141A28"/>
+    <circle cx="712" cy="60" r="5.5" fill="#FF5F57"/><circle cx="730" cy="60" r="5.5" fill="#FEBC2E"/><circle cx="748" cy="60" r="5.5" fill="#28C840"/>
+    <text x="918" y="64" font-size="12" fill="#8B95A8" text-anchor="middle">victor@projetos: ~</text>
+    <g font-size="14">
+      <g class="l d1"><text x="712" y="106" fill="#14B8A6">$</text><text x="728" y="106" fill="#E6EDF3">ls projetos</text></g>
+      <g class="l d2"><text x="712" y="134" fill="#3B82F6">nexcall/</text><text x="800" y="134" fill="#8B95A8">discador · voz · painel</text></g>
+      <g class="l d3"><text x="712" y="160" fill="#3B82F6">e-commerce/</text><text x="824" y="160" fill="#8B95A8">firebase · vite · admin</text></g>
+      <g class="l d4"><text x="712" y="186" fill="#3B82F6">sites/</text><text x="776" y="186" fill="#8B95A8">html · css · hosting</text></g>
+      <g class="l d5"><text x="712" y="226" fill="#14B8A6">$</text><text x="728" y="226" fill="#E6EDF3">uname -s</text></g>
+      <g class="l d6"><text x="712" y="252" fill="#8B95A8">Linux · Windows</text><text x="840" y="252" fill="#14B8A6" class="cur">▌</text></g>
+    </g>
+  </g>
+</svg>
