@@ -12,7 +12,7 @@
 <br/><br/>
 
 <a href="https://github.com/victorcorcovia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=640&height=35&lines=%3E+Desenvolvimento+Full+Stack;%3E+Next.js+%C2%B7+React+%C2%B7+Node.js;%3E+E-commerce+com+Firebase+e+Vite;%3E+Landing+Page;%3E+MySQL+%C2%B7+Firestore;%3E+Linux+e+Windows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=640&height=35&lines=%3E+Desenvolvimento+Full+Stack;%3E+Next.js+%C2%B7+Node.js;%3E+E-commerce+com+Firebase+e+Vite;%3E+Landing+Page;%3E+MySQL+%C2%B7+Firestore;%3E+Linux+e+Windows" alt="Typing SVG" />
 </a>
 
 
