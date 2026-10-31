@@ -6,20 +6,23 @@
   <img src="./assets/header-dark.svg?v=2" alt="Victor Hugo — Desenvolvedor" width="100%">
 </picture>
 
+
 <br/>
+<br/><br/>
 
 <a href="https://github.com/victorcorcovia">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=640&lines=%3E+Telefonia+com+Asterisk+e+chamadas+receptivas;%3E+Pain%C3%A9is+em+Next.js+%C2%B7+React+%C2%B7+Tailwind;%3E+Testes+com+Vitest+e+ESLint;%3E+E-commerce+com+Firebase+e+Vite;%3E+MySQL+%C2%B7+Firestore;%3E+Linux+e+Windows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FF1744&center=true&vCenter=true&width=640&height=35&lines=%3E+Desenvolvimento+Full+Stack;%3E+Next.js+%C2%B7+React+%C2%B7+Node.js;%3E+E-commerce+com+Firebase+e+Vite;%3E+Landing+Page;%3E+MySQL+%C2%B7+Firestore;%3E+Linux+e+Windows" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/status-online-22C55E?style=flat-square&labelColor=0B0E14" alt="status" />
 <img src="https://img.shields.io/badge/foco-sistemas_em_produção-3B82F6?style=flat-square&labelColor=0B0E14" alt="foco" />
 <img src="https://img.shields.io/badge/local-Paran%C3%A1,_BR-14B8A6?style=flat-square&labelColor=0B0E14" alt="local" />
 <img src="https://komarev.com/ghpvc/?username=victorcorcovia&label=views&color=3B82F6&style=flat-square&labelColor=0B0E14" alt="views" />
 
-<br/><br/>
+<br/>
 
 <code><a href="#-sobre">./sobre</a></code> &nbsp;
 <code><a href="#-competências">./competências</a></code> &nbsp;
@@ -28,33 +31,35 @@
 
 </div>
 
+
 <br/>
 
 ## `$` sobre
 
 ```ts
+
 const victor = {
-  role:      "Desenvolvedor",
+  role:      "Desenvolvedor Full Stack",
   education: "Engenharia de Software (em andamento)",
 
-  trabalhando: {
-    telefonia: ["Asterisk", "dialplan", "chamadas receptivas", "webhooks", "áudio com Polly"],
-    painel:    ["Next.js", "React", "Tailwind", "tabelas e telas de uso"],
-    qualidade: ["Vitest", "ESLint", "Sentry", "CI com GitHub Actions"],
-  },
+  focus:     ["desenvolvimento web", "APIs", "integrações", "automação"],
 
-  construi: {
-    ecommerce: ["Firebase (Firestore e Functions)", "Vite", "Cloudinary", "painel admin"],
-    sites:     ["HTML", "CSS", "Firebase Hosting"],
-  },
+  frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
 
-  dados:    ["MySQL", "Firestore"],
-  sistemas: ["Linux", "Windows"],
-  mindset:  "entender a operação → achar o gargalo → entregar algo que aguenta carga real",
+  backend:   ["Node.js", "Firebase Functions", "APIs REST"],
+
+  database:  ["MySQL", "Firestore"],
+
+  infra:     ["Linux", "Windows", "Firebase Hosting"],
+
+  tools:     ["Git", "GitHub", "VS Code", "GitHub Actions"],
+
+  mindset:   "transformar desafios em soluções → escrever código com propósito → evoluir continuamente",
 };
+
 ```
 
-> Do telefone ao navegador: ligações que entram, painéis que mostram o que aconteceu e lojas que vendem.
+> Transformando ideias em soluções digitais, unindo tecnologia, inovação e desenvolvimento contínuo.
 
 <br/>
 
@@ -108,29 +113,32 @@ const victor = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,nodejs&theme=dark" alt="Aplicação" />
+
+<div align="center">
+
+<!-- Frontend e Backend -->
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,nodejs,vitest&theme=dark" alt="Aplicação e testes" />
+
 <br/>
+
+<!-- Banco de dados e infraestrutura -->
 <img src="https://skillicons.dev/icons?i=mysql,firebase,docker,linux,arch,windows&theme=dark" alt="Dados e infraestrutura" />
+
 <br/>
+
+<!-- Ferramentas -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Ferramentas" />
+
+<br/>
+
+<!-- Cloudinary -->
+<img src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="Cloudinary" width="48" height="48" />
 
 </div>
 
-<details>
-<summary><code>cat stack.yml</code></summary>
 
-```yaml
-linguagens:     [TypeScript, JavaScript, HTML, CSS]
-frontend:       [React, Next.js, Vite, Tailwind CSS]
-backend:        [Node.js, Firebase Functions]
-dados:          [MySQL, Firestore]
-telefonia:      [Asterisk, Polly]
-qualidade:      [Vitest, ESLint, Sentry, GitHub Actions]
-infraestrutura: [Linux (Arch), Windows, Docker, Firebase Hosting, Cloudinary]
-ferramentas:    [Git, GitHub, VS Code]
-```
+</div>
 
-</details>
 
 <br/>
 
