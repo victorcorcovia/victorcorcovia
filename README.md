@@ -122,7 +122,7 @@ const victor = {
 <div align="center">
 
 <!-- Frontend e Backend -->
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,nodejs,vitest&theme=dark" alt="Aplicação e testes" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,nextjs,vite,tailwind,nodejs,vitest&theme=dark" alt="Aplicação e testes" />
 
 <br/>
 
