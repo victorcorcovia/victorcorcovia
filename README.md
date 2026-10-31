@@ -1,10 +1,11 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=2">
-  <img src="./assets/header-dark.svg?v=2" alt="Victor Hugo — Desenvolvedor" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=3">
+  <img src="./assets/header-dark.svg?v=3" alt="Victor Hugo — Desenvolvedor" width="100%">
 </picture>
+
 
 
 <br/>
@@ -44,9 +45,9 @@ const victor = {
 
   focus:     ["desenvolvimento web", "APIs", "integrações", "automação"],
 
-  frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+  frontend:  ["HTML", " CSS", "JavsScript"],
 
-  backend:   ["Node.js", "Firebase Functions", "APIs REST"],
+  backend:   ["Node.js", "Firebase Functions", ],
 
   database:  ["MySQL", "Firestore"],
 
@@ -65,47 +66,51 @@ const victor = {
 
 ## `$` competências
 
+
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**`01` · Web & e-commerce**
+**`01` · Desenvolvimento Web**
 
 ```diff
-+ Painéis em Next.js e React
-+ Lojas virtuais e painel admin
-+ Sites com HTML, CSS e Vite
++ HTML, CSS e JavaScript
 + TypeScript
++ React e Next.js
++ Tailwind CSS e Vite
++ Interfaces responsivas
 ```
 
 </td>
 <td width="33%" valign="top">
 
-**`02` · Dados & infra**
+**`02` · Backend & Dados**
 
 ```diff
-+ MySQL
-+ Firestore e regras de segurança
-+ Firebase Functions e Hosting
-+ Imagens com Cloudinary
-+ Docker, Linux e Windows
++ Node.js
++ APIs REST e Webhooks
++ Firebase Functions
++ MySQL e Firestore
++ Autenticação e integrações
 ```
 
 </td>
 <td width="33%" valign="top">
 
-**`03` · Telefonia & qualidade**
+**`03` · Ferramentas & Infra**
 
 ```diff
-+ Asterisk e dialplan
-+ Chamadas receptivas e webhooks
-+ Áudio com Polly
-+ Vitest, ESLint, Sentry e CI
++ Git, GitHub e VS Code
++ Linux e Windows
++ Docker
++ Firebase Hosting e Cloudinary
++ Vitest, ESLint e GitHub Actions
 ```
 
 </td>
 </tr>
 </table>
+
 
 <br/>
 
@@ -122,7 +127,7 @@ const victor = {
 <br/>
 
 <!-- Banco de dados e infraestrutura -->
-<img src="https://skillicons.dev/icons?i=mysql,firebase,docker,linux,arch,windows&theme=dark" alt="Dados e infraestrutura" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,linux,arch,windows&theme=dark" alt="Dados e infraestrutura" />
 
 <br/>
 
