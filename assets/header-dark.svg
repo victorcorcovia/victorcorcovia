@@ -23,6 +23,40 @@
   <rect width="1200" height="320" fill="url(#glowB)"/>
   <rect class="scan" x="0" y="0" width="1200" height="2" fill="#3B82F6" opacity=".2"/>
 
+  
+  <!-- APRESENTAÇÃO — LADO ESQUERDO -->
+  <g class="mono">
+    <text x="60" y="98" font-size="15" fill="#3B82F6">// engenharia de software · full-stack</text>
+
+    <text x="58" y="158" font-size="52" font-weight="700"
+          fill="#E6EDF3" letter-spacing="-1">Victor Hugo</text>
+
+    <text x="60" y="198" font-size="21" fill="#8B95A8">
+      Desenvolvedor<tspan fill="#14B8A6" class="cur">_</tspan>
+    </text>
+
+    <rect x="60" y="218" width="140" height="4" rx="2" fill="url(#accent)"/>
+
+    <!-- Tecnologias -->
+    <g font-size="13" fill="#8B95A8">
+      <rect x="60" y="246" width="96" height="28" rx="6" fill="#111726" stroke="#2A3245"/>
+      <text x="108" y="265" text-anchor="middle">Asterisk</text>
+
+      <rect x="166" y="246" width="84" height="28" rx="6" fill="#111726" stroke="#2A3245"/>
+      <text x="208" y="265" text-anchor="middle">Next.js</text>
+
+      <rect x="260" y="246" width="96" height="28" rx="6" fill="#111726" stroke="#2A3245"/>
+      <text x="308" y="265" text-anchor="middle">Firebase</text>
+
+      <rect x="366" y="246" width="76" height="28" rx="6" fill="#111726" stroke="#2A3245"/>
+      <text x="404" y="265" text-anchor="middle">MySQL</text>
+
+      <rect x="452" y="246" width="76" height="28" rx="6" fill="#111726" stroke="#2A3245"/>
+      <text x="490" y="265" text-anchor="middle">Vitest</text>
+    </g>
+  </g>
+
+
 
   <!-- TERMINAL -->
   <g class="mono">
