@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img src="./assets/header-dark.svg" alt="Victor Hugo — Desenvolvedor" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=2">
+  <img src="./assets/header-dark.svg?v=2" alt="Victor Hugo — Desenvolvedor" width="100%">
 </picture>
 
 <br/>
